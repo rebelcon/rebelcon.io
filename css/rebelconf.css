@@ -1,0 +1,376 @@
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/33AD8B_0_0.eot");
+  src: url("../fonts/33AD8B_0_0.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/33AD8B_0_0.woff2") format("woff2"),
+       url("../fonts/33AD8B_0_0.woff") format("woff"),
+       url("../fonts/33AD8B_0_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/33AD8B_2_0.eot");
+  src: url("../fonts/33AD8B_2_0.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/33AD8B_2_0.woff2") format("woff2"),
+       url("../fonts/33AD8B_2_0.woff") format("woff"),
+       url("../fonts/33AD8B_2_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: bold;
+  font-style: normal;
+  src: url("../fonts/33AD8B_3_0.eot");
+  src: url("../fonts/33AD8B_3_0.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/33AD8B_3_0.woff2") format("woff2"),
+       url("../fonts/33AD8B_3_0.woff") format("woff"),
+       url("../fonts/33AD8B_3_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: 900;
+  font-style: normal;
+  src: url("../fonts/33AD8B_1_0.eot");
+  src: url("../fonts/33AD8B_1_0.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/33AD8B_1_0.woff2") format("woff2"),
+       url("../fonts/33AD8B_1_0.woff") format("woff"),
+       url("../fonts/33AD8B_1_0.ttf") format("truetype");
+}
+
+html, body {
+	font-family: NeuzeitGrotesk;
+}
+
+.navbar-default {
+	background-color: #192231;
+}
+
+.nav.navbar-nav>li.tickets {
+	background-color: #c93b06;
+	margin-top: 14px;
+}
+
+.nav.navbar-nav>li.tickets>a {
+	color: #ffffff;
+	padding: 5px;
+	font-size: 70%;
+}
+
+.nav.navbar-nav>li>a:hover,
+.nav.navbar-nav>li>a:focus,
+.nav.navbar-nav>li>a:active,
+.nav.navbar-nav>li>a.active {
+    color: #c93b06;
+}
+
+.nav.navbar-nav>li.tickets>a:hover,
+.nav.navbar-nav>li.tickets>a:focus,
+.nav.navbar-nav>li.tickets>a:active,
+.nav.navbar-nav>li.tickets>a.active {
+	color: #c93b06;
+	background-color: #ffffff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: #ffffff;
+	background-color: transparent;
+}
+
+header, section.sponsors {
+	color: #192331;
+	background-color: #f2f2f2;
+}
+
+header .container-fluid {
+	padding-top: 50px;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+@media(min-width:768px) {
+	header .container-fluid {
+		padding-top: 100px;
+	}
+}
+
+header .intro-text .tagline {
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
+div.header-date-location {
+	padding-top: 30px;
+	color: #c93b06;
+	font-size: 15px;
+}
+
+@media (min-width: 768px) {
+	div.header-date-location {
+		font-size: 20px;
+		width: 400px;
+		margin-left: 30px;
+	}
+}
+
+div.header-date {
+	font-weight: bold;
+}
+
+span.date-number {
+	font-size: 200%;
+}
+
+div.header-location {
+	font-size: 160%;
+}
+
+div.header-outline {
+	background-image: url("../img/rebelcon_corkcity_line_1440_425.png");
+	height: 424px;
+}
+
+img#nav-logo {
+	width: 200px;
+}
+
+@media(max-width: 1024px) {
+	img#nav-logo {
+		width: 100px;
+		margin-left: 0;
+		margin-top: 19px;
+	}
+}
+
+@media(max-width: 768px) {
+	img#nav-logo {
+		width: 150px;
+		margin-left: 12px;
+		margin-top: 12px;
+	}
+}
+
+section.schedule {
+	color: #fff;
+    background-color: #0b3c5d;
+}
+
+section.about, section.conduct {
+	color: #fff;
+    background-color: #192231;
+}
+
+section h2 {
+	margin-bottom: 40px;
+}
+
+section.location iframe {
+	width: 100%;
+}
+
+section.location .place {
+	font-size: 1.5em;
+}
+
+section.location .address {
+	font-size: 1.25em;
+}
+
+section.location {
+	padding-bottom: 0;
+	color: #192231;
+}
+
+section.location div#map {
+	width: 100%;
+	height: 500px;
+	margin-top: 40px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    color: #a5271e;
+}
+
+div.speaker-title {
+	font-size: 1.25em;
+	margin-bottom: 20px;
+}
+
+section#portfolio {
+	background-color: #328cc1;
+	color: #ffffff;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+	background: rgba(25,34,49,.8);
+}
+
+#portfolio .speakers-temp {
+	font-size: 20px;
+	text-align: center;
+}
+
+#portfolio .speakers-temp .call-for-speakers {
+	font-size: 25px ;
+}
+
+.sponsor-image {
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+}
+
+.silver-sponsors {
+	padding-top: 50px;
+}
+
+div.speaker-talk-title {
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+span.speaker-lightning-talk {
+	font-size: 15px;
+	opacity: 0.5;
+}
+
+div.speaker-bio {
+	color: #999999;
+	text-align: justify;
+}
+
+div.speaker-twitter {
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+div.speaker-twitter a {
+	color: #0084b4;
+	text-decoration: none;
+}
+
+img.speaker-modal-image {
+	width: 60%;
+}
+
+div.schedule-day {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+div.schedule-workshop {
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+	border-bottom: 1px #328cc1 solid;
+}
+
+div.schedule-workshop .workshop-title {
+	font-size: 150%;
+	font-weight: bold;
+}
+
+div.schedule-workshop .workshop-speaker {
+	font-size: 125%;
+}
+
+div.schedule-workshop .workshop-content {
+	text-align: left;
+}
+
+div.schedule-workshop .workshop-content p {
+	font-size: 100%;
+}
+
+table.schedule-table {
+	border-right: 1px #fff solid;
+}
+
+table.schedule-table th, table.schedule-table td {
+	padding: 20px;
+	text-align: center;
+}
+
+table.schedule-table .schedule-green, table.schedule-table .schedule-blue {
+	color: #333;
+}
+
+table.schedule-table th.schedule-green {
+	background-color: #66ad4a;
+	width: 45%;
+	border-left: 1px #fff solid;
+	border-top: 1px #fff solid;
+}
+
+table.schedule-table .schedule-time {
+	border-left: 1px #fff solid;
+}
+
+table.schedule-table th.schedule-blue {
+	background-color: #6d9eeb;
+	width: 45%;
+	border-top: 1px #fff solid
+}
+
+table.schedule-table td.schedule-green {
+	background-color: #e1f9de;
+}
+
+table.schedule-table td.schedule-blue {
+	background-color: #c9daf8;
+}
+
+table.schedule-table div.schedule-title {
+	font-weight: bold;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+table.schedule-table td.schedule-time {
+	vertical-align: top;
+}
+
+table.schedule-table tr {
+	border-bottom: 1px #fff solid;
+}
+
+section#teaser div.teaser-dates {
+	text-align: center;
+	font-size:2em;
+}
+
+section#teaser div.teaser-venue {
+	text-align: center;
+	font-size:1.2em;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-speaker {
+	float: left;
+	width: 30%;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-speaker div.teaser-keynote-speaker-title {
+	font-size: 30px;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-speaker img {
+	width: 100%;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-description {
+	float: left;
+	width: 70%;
+}
+
