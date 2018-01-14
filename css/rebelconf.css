@@ -226,6 +226,10 @@ section#portfolio {
 	font-size: 25px ;
 }
 
+#portfolio .speakers-temp .call-for-speakers a {
+	color: #0b3c5d;
+}
+
 .sponsor-image {
 	height: 60px;
 	line-height: 60px;
