@@ -52,13 +52,12 @@ html, body {
 
 .nav.navbar-nav>li.tickets {
 	background-color: #c93b06;
-	margin-top: 14px;
+	margin-top: 9px;
 }
 
 .nav.navbar-nav>li.tickets>a {
 	color: #ffffff;
-	padding: 5px;
-	font-size: 70%;
+	padding: 10px;
 }
 
 .nav.navbar-nav>li>a:hover,
