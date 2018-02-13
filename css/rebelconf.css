@@ -377,3 +377,19 @@ section#teaser div.teaser-keynote div.teaser-keynote-description {
 	width: 70%;
 }
 
+section#social {
+	padding: 50px 0;
+}
+
+section#social a {
+	font-size: 40px;
+	padding: 0 20px;
+}
+
+section#social a.twitter {
+	color: #0084b4;
+}
+
+section#social a.facebook {
+	color: #3b5998;
+}
