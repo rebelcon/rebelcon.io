@@ -85,7 +85,7 @@ html, body {
 
 header, section.sponsors {
 	color: #192331;
-	background-color: #f2f2f2;
+	background-color: #ffffff;
 }
 
 header .container-fluid {
@@ -378,6 +378,7 @@ section#teaser div.teaser-keynote div.teaser-keynote-description {
 }
 
 section#social {
+	background-color: #f2f2f2;
 	padding: 50px 0;
 }
 
