@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Continuous delivery DevSecOps with Kubernetes: stay safe at the speed of light</title>
+      <link>/talks/david-gonzalez-continuous-delivery-devsecops-kubernetes/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/david-gonzalez-continuous-delivery-devsecops-kubernetes/</guid>
+      <description>Nowadays, Continuous Delivery is a must. Nobody starts a new application without asking: how can we make deployments as painless as possible? The only answer to it is Kubernetes. Full stop. Kubernetes is the solution to 99% of the problems on a software development/deployment pipeline because it was engineered for it.
+The problem with CD pipelines is the security: there are no standards for securing a CD pipeline as it is something new and security takes time to catch up with the requirements.</description>
+    </item>
+    
+    <item>
       <title>Design Sprint</title>
       <link>/talks/perera-design-sprint/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
@@ -37,6 +47,16 @@ How many meetings and discussions does it take before you can be sure you have t
       
       <guid>/talks/randy-shoup-scaling-technology-and-organizations/</guid>
       <description>Successful Internet companies are built on a foundation of excellent culture, efficient organization, and solid technology. As a company needs to scale, all of these parts of the foundation need to grow and scale with it. This tutorial will provide a deep dive into modern best practices at innovative companies in Silicon Valley for scaling culture, organization, and technology.</description>
+    </item>
+    
+    <item>
+      <title>Smart buildings and smart cities</title>
+      <link>/talks/eric-thiebaut-george-smart-buildings-smart-cities/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/eric-thiebaut-george-smart-buildings-smart-cities/</guid>
+      <description>Is IoT a fad or is it the new tomorrow?
+Smart buildings are connected buildings where distinct services such as badge scanners, temperature sensors, catering and other devices and services are all interconnected in order to enhance the value of the building, reduce cost, and offer a better working environment. Similarly, smart cities aim to fluidity traffic, reduce congestion, improve energy efficiency,… in order to provide a superior living environment.</description>
     </item>
     
     <item>

@@ -102,12 +102,39 @@
 		            <div class="col-lg-8 col-lg-offset-2">
 		            	<div class="row">
 		            		<h2>
-		                	<small>Sam Newman</small><br/>
-			                What Is This Cloud Native Thing Anyway?
+		                	<small>David Gonzalez</small><br/>
+			                Continuous delivery DevSecOps with Kubernetes: stay safe at the speed of light
 			            </h2>
-		            		<p>Sam has found himself spending much of the past few years dealing with buzzword-heavy areas of technology, trying to come to terms with what it all means. From DevOps, to Microservices, serverless and now Cloud Native. So many of these terms mean different things to different people. In an effort to try and set us up with a common understanding of what Cloud Native is, Sam will be taking us on a whistle-stop tour through the history leading up to Cloud Native, and try and synthesise what it is, and why it’s important.</p>
+		            		
 
-<p>From the emergence of public cloud to the all consuming hype around Kubernetes, from 12 factors to servlerless, Sam will pull all these strands together to help us understand how everything is related, everything is new, and everything is old all at the same time.</p>
+<p>Nowadays, Continuous Delivery is a must. Nobody starts a new application without asking: how can we make deployments as painless as possible? The only answer to it is Kubernetes. Full stop. Kubernetes is the solution to 99% of the problems on a software development/deployment pipeline because it was engineered for it.</p>
+
+<p>The problem with CD pipelines is the security: there are no standards for securing a CD pipeline as it is something new and security takes time to catch up with the requirements.</p>
+
+<h3 id="attack-vectors">Attack vectors</h3>
+
+<p>Docker and orchestration platforms like Kubernetes, as well as your process, introduce new attack vectors that you haven’t even think of:</p>
+
+<ul>
+<li>Flawed images</li>
+<li>Shared volumes in containers exposing more than what they should</li>
+<li>People deploying dangerous code into production (accidentally or intentionally).</li>
+</ul>
+
+<p>We need to reinvent how do we approach security in order to be successful in the big enterprise by ensuring that the standards are at the same level as in a traditional software company which can only be achieved by creating new tools (like I did with <a href="https://github.com/dgonzalez/gammaray">Gammaray</a>) and improving your process staying on the safety but allowing your engineers to move as quickly as they can by providing them early feedback of potential threats as well as training.</p>
+
+<h3 id="mitigation">Mitigation</h3>
+
+<p>In order to mitigate the attack vectors stated above we need to get very very creative as DevOps is the wild West of the 21st century. We need a combination intellect and common sense to reduce its risks:</p>
+
+<ul>
+<li>Security scanning</li>
+<li>4 eye policies</li>
+<li>Hardened configurations</li>
+<li>&hellip;</li>
+</ul>
+
+<p>On this talk, I will introduce the problematic with real examples on how to compromise CD pipelines as well as solutions to the attack vectors mentioned above. I will also demo the process of, creating a Docker image with very high security standards, with an application that has already been scanned using <a href="https://github.com/dgonzalez/gammaray">Gammaray</a> looking for vulnerabilities on its dependencies and deploy it on a secured Kubernetes cluster without any obstruction to the engineering team ensuring that we have visibility through the full process..</p>
 
 		            	</div>
 		           	</div>
@@ -119,16 +146,34 @@
 		    <div class="container">
 		        <div class="row">
 		            <div class="col-lg-8 col-lg-offset-2">
-		            	<h2>Sam Newman</h2>
+		            	<h2>David Gonzalez</h2>
 		            	<div class="row schedule-workshop">
 	                        <div class="col-xs-4">
-	                            <img src="/img/speakers/sam_newman.jpg" class="img-responsive workshop-speaker">
+	                            <img src="/img/speakers/david_gonzalez.jpg" class="img-responsive workshop-speaker">
 	                        </div>
 	                        <div class="col-xs-8 workshop-content">
-	                        	<h4>Independent consultant</h4>
-	                            <p>Sam Newman is interested in technology at the intersection of things, from development, to ops, to security, and organisational structure. After over a decade at ThoughtWorks he is now an independent consultant focusing on the areas of microservices, cloud, and CI/CD.</p>
+	                        	<h4>Consultant at nearForm</h4>
+	                            <p>David is a DevOps enthusiast coming from a software engineering background that loves speaking at events.</p>
 
-<p>Sam is the author of &ldquo;Building Microservices&rdquo; from O’Reilly, and is an in-demand conference speaker. He has worked with a variety of companies in different domains all around the world, often with one foot in the developer world, and another in the IT operations space.</p>
+<p>He is the author of three books, and planning a 4th one (DevSecOps pipelines):</p>
+
+<ul>
+<li><a href="https://www.packtpub.com/networking-and-servers/implementing-modern-devops">https://www.packtpub.com/networking-and-servers/implementing-modern-devops</a></li>
+<li><a href="https://www.packtpub.com/web-development/developing-microservices-nodejs">https://www.packtpub.com/web-development/developing-microservices-nodejs</a></li>
+<li><a href="https://www.packtpub.com/application-development/microservices-building-scalable-software">https://www.packtpub.com/application-development/microservices-building-scalable-software</a></li>
+</ul>
+
+<p>He is also the only Google Developer Expert in Kubernetes on Europe. Nowadays, he is a consultant in nearForm that enjoys facing new challenges with customers that require help with Software, infrastructure or security helping them to achieve their goals on the best possible way.</p>
+
+<p>David is an open source enthusiast who contributes to a number of projects and created few of them such as:</p>
+
+<ul>
+<li><a href="https://github.com/dgonzalez/gammaray">Gammaray</a> (vulnerability scanner)</li>
+<li><a href="https://github.com/dgonzalez/vishnu">Vishnu</a> (circuit breaker for kubernetes, in progress)</li>
+<li><a href="https://github.com/dgonzalez/visigoth">Visigoth</a> (a load balancer with circuit breaker incorporated)</li>
+</ul>
+
+<p>On his free time, he loves riding my bike and walking his dogs on the green Ireland.</p>
 
 	                        </div>
 	                    </div>

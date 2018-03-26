@@ -397,3 +397,7 @@ section#social a.twitter {
 section#social a.facebook {
 	color: #3b5998;
 }
+
+section#speaker h4 {
+	margin-top: 0;
+}

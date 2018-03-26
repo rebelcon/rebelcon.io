@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talks/david-gonzalez-continuous-delivery-devsecops-kubernetes/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/perera-design-sprint/</loc>
     <lastmod>2018-03-24T12:04:08+00:00</lastmod>
   </url>
@@ -14,6 +19,11 @@
   
   <url>
     <loc>/talks/randy-shoup-scaling-technology-and-organizations/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/eric-thiebaut-george-smart-buildings-smart-cities/</loc>
     <lastmod>2018-03-24T12:04:08+00:00</lastmod>
   </url>
   
