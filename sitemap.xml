@@ -3,17 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talks/perera-design-sprint/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/david-lynam-journey-to-modular-ui/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/randy-shoup-scaling-technology-and-organizations/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/melissa-perri-build-trap/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/cate-huston-manager-survival-guide/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/richard-bradshaw-valuable-automation-agile-testing/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/sam-newman-cloud-native/</loc>
+    <lastmod>2018-03-23T18:10:18+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   

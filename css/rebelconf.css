@@ -161,6 +161,15 @@ section.schedule {
     background-color: #0b3c5d;
 }
 
+section.schedule a {
+	color: #fff;
+}
+
+section.speaker a {
+	color: #fff;
+	text-decoration: underline;
+}
+
 section.about, section.conduct {
 	color: #fff;
     background-color: #192231;
@@ -212,6 +221,11 @@ section#portfolio {
 	color: #ffffff;
 }
 
+section.speaker {
+	background-color: #328cc1;
+	color: #ffffff;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption {
 	background: rgba(25,34,49,.8);
 }
@@ -248,6 +262,10 @@ div.speaker-talk-title {
 span.speaker-lightning-talk {
 	font-size: 15px;
 	opacity: 0.5;
+}
+
+span.schedule-company {
+	font-style: italic;
 }
 
 div.speaker-bio {
@@ -298,41 +316,26 @@ div.schedule-workshop .workshop-content p {
 }
 
 table.schedule-table {
-	border-right: 1px #fff solid;
+	border: 1px #fff solid;
 }
 
-table.schedule-table th, table.schedule-table td {
+table.schedule-table td {
 	padding: 20px;
 	text-align: center;
+	vertical-align: top;
 }
 
-table.schedule-table .schedule-green, table.schedule-table .schedule-blue {
-	color: #333;
+table.schedule-table td.schedule-time {
+	width: 10%;
 }
 
-table.schedule-table th.schedule-green {
-	background-color: #66ad4a;
-	width: 45%;
-	border-left: 1px #fff solid;
-	border-top: 1px #fff solid;
+table.schedule-table td.schedule-keynote {
+	background: #328cc1;
 }
 
-table.schedule-table .schedule-time {
-	border-left: 1px #fff solid;
-}
-
-table.schedule-table th.schedule-blue {
-	background-color: #6d9eeb;
-	width: 45%;
-	border-top: 1px #fff solid
-}
-
-table.schedule-table td.schedule-green {
-	background-color: #e1f9de;
-}
-
-table.schedule-table td.schedule-blue {
-	background-color: #c9daf8;
+table.schedule-table td.schedule-track {
+	width: 30%;
+	background: #328cc1;
 }
 
 table.schedule-table div.schedule-title {
