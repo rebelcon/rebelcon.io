@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talks/mandi-walls-building-security-into-your-worflow/</loc>
+    <lastmod>2018-03-24T12:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talks/david-gonzalez-continuous-delivery-devsecops-kubernetes/</loc>
     <lastmod>2018-03-24T12:04:08+00:00</lastmod>
   </url>

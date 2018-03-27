@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Building security into your workflow with InSpec </title>
+      <link>/talks/mandi-walls-building-security-into-your-worflow/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/mandi-walls-building-security-into-your-worflow/</guid>
+      <description>InSpec is an open source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements. Using a combination of command-line and remote-execution tools, InSpec can help you keep your infrastructure aligned with security and compliance guidelines on an ongoing basis, rather than waiting for and then remediating from arduous annual audits.
+InSpec’s flexibility makes it a key tool choice for incorporating security into a complete continuous delivery workflow, reducing the risk of new features and releases breaking established host-based security guidelines.</description>
+    </item>
+    
+    <item>
       <title>Continuous delivery DevSecOps with Kubernetes: stay safe at the speed of light</title>
       <link>/talks/david-gonzalez-continuous-delivery-devsecops-kubernetes/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
