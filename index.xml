@@ -42,6 +42,15 @@ How many meetings and discussions does it take before you can be sure you have t
     </item>
     
     <item>
+      <title>Docker: Our Journey to Production</title>
+      <link>/talks/david-mills-docker-journey-to-production/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/david-mills-docker-journey-to-production/</guid>
+      <description>Xanadu Consultancy has provided software development and support for Matchbook.com, one of the worlds largest sports betting exchanges, for the past seven years. A sports betting exchange, like a financial exchange, is a highly transactional and low latency platform. Matchbook handles over 600M requests each day with an average response time of less than 2ms. The system is a distributed, micro services architecture. Xanadu operates a number of separate development teams delivering new features to Matchbook and supporting the production platform.</description>
+    </item>
+    
+    <item>
       <title>Our Journey To Modular UI Development</title>
       <link>/talks/david-lynam-journey-to-modular-ui/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
