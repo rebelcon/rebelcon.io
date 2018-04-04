@@ -88,6 +88,16 @@ Smart buildings are connected buildings where distinct services such as badge sc
     </item>
     
     <item>
+      <title>Successfully Derailed Product</title>
+      <link>/talks/cate-huston-successfully-derailed-product/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/cate-huston-successfully-derailed-product/</guid>
+      <description>As individuals we - implicitly or explicitly - defne success, as do teams. But how do these defnitions and incentives impact how and what we build?
+Let’s talk about the ways in which the dysfunctions of your organization become the dysfunctions of your product.</description>
+    </item>
+    
+    <item>
       <title>The Board Whisperer</title>
       <link>/talks/gary-fleming-the-board-whisperer/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
@@ -108,12 +118,13 @@ In order to get get out of the Build Trap and become a successful product-led or
     </item>
     
     <item>
-      <title>The new manager survival guide</title>
-      <link>/talks/cate-huston-manager-survival-guide/</link>
+      <title>TypeScript Deep Dive</title>
+      <link>/talks/matija-grcic-typescript-deep-dive/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
       
-      <guid>/talks/cate-huston-manager-survival-guide/</guid>
-      <description></description>
+      <guid>/talks/matija-grcic-typescript-deep-dive/</guid>
+      <description>TypeScript is Microsoft’s answer to working large, complex JavaScript code-bases, bringing static typing and EcmaScript 6 features to current browsers. In this talk, you’ll learn how TypeScript was designed to extend and embrace JavaScript idioms and how it will help you out to ensure correct code and behavior.
+We will also cover how to use advanced static types in practice by explaining how the compiler analyzes control flow to determine the most specific type for a variable at any given location.</description>
     </item>
     
     <item>
