@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Artificial Intelligence for Analysis of Medical Data from Newborn Infants</title>
+      <link>/talks/alison-oshea-ai-for-analysis-of-medical-data-from-newborn-infants/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/alison-oshea-ai-for-analysis-of-medical-data-from-newborn-infants/</guid>
+      <description>The volume of medical data being collected is continuously increasing as technology improves while the time and expertise required to analyse it is consistently scarce. Globally there is a critical shortage of radiologists to analyse scans and neurophysiologists to analyse EEG (brain-waves). At the INFANT research centre in University College Cork we are using artificial intelligence to develop tools which can analyse medical signals and scans to identify and quantify anomalies.</description>
+    </item>
+    
+    <item>
       <title>Building security into your workflow with InSpec </title>
       <link>/talks/mandi-walls-building-security-into-your-worflow/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
