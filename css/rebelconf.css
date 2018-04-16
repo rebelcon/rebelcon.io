@@ -401,3 +401,17 @@ section#social a.facebook {
 section#speaker h4 {
 	margin-top: 0;
 }
+
+.schedule-talk {
+	padding-bottom: 20px;
+}
+
+.schedule-time {
+	border-top: 1px #328cc1 solid;
+	padding: 10px 0;
+}
+
+
+.schedule-talk img {
+	margin-top: 10px;
+}
