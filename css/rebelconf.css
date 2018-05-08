@@ -295,11 +295,12 @@ div.schedule-day {
 
 div.schedule-workshop {
 	padding-bottom: 20px;
-	margin-bottom: 30px;
+	
 }
 
 section.workshops div.schedule-workshop {
 	border-bottom: 1px #328cc1 solid;
+	margin-bottom: 30px;
 }
 
 div.schedule-workshop .workshop-title {
