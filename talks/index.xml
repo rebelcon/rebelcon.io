@@ -50,16 +50,6 @@ The problem with CD pipelines is the security: there are no standards for securi
     </item>
     
     <item>
-      <title>Design Sprint</title>
-      <link>/talks/perera-design-sprint/</link>
-      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
-      
-      <guid>/talks/perera-design-sprint/</guid>
-      <description>How to Solve Big Problems and Test New Ideas in Just 5 Days?
-How many meetings and discussions does it take before you can be sure you have the right solution? What’s the most important place to focus your effort, and how do you start? What will your idea look like in real life? Entrepreneurs and leaders face big questions every day. Now there’s a surefire way to answer these important questions; the SPRINT.</description>
-    </item>
-    
-    <item>
       <title>Docker: Our Journey to Production</title>
       <link>/talks/david-mills-docker-journey-to-production/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
@@ -85,6 +75,16 @@ Let’s talk about the ways in which the dysfunctions of your organization becom
       
       <guid>/talks/tristan-ogorman-strategies-for-ux-and-pm-alignment/</guid>
       <description>Product Management and UX ought to have shared goals, right? Both disciplines essentially seek to build software to help customers drive business outcomes. The reality is, however, that alignment between both roles is not always complete, especially in the white heat of agile development. This can happen for various reasons and this talk will identify the major problems that can cause misalignment and strategies for dealing with them as they arise or to help avoid them entirely.</description>
+    </item>
+    
+    <item>
+      <title>Google Ventures Design Sprint</title>
+      <link>/talks/perera-design-sprint/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/perera-design-sprint/</guid>
+      <description>How to Solve Big Problems and Test New Ideas in Just 5 Days?
+How many meetings and discussions does it take before you can be sure you have the right solution? What’s the most important place to focus your effort, and how do you start? What will your idea look like in real life? Entrepreneurs and leaders face big questions every day. Now there’s a surefire way to answer these important questions; the SPRINT.</description>
     </item>
     
     <item>
