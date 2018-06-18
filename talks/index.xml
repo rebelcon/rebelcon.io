@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Building a startup in a startup</title>
-      <link>/talks/padraig-obrien-startup-in-a-startup/</link>
-      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
-      
-      <guid>/talks/padraig-obrien-startup-in-a-startup/</guid>
-      <description>Building a startup in a startup, the journey of building a new product for a company that already has a successful product.</description>
-    </item>
-    
-    <item>
       <title>Building security into your workflow with InSpec </title>
       <link>/talks/mandi-walls-building-security-into-your-worflow/</link>
       <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
@@ -164,6 +155,16 @@ Driven primarily by the presenter&amp;rsquo;s experience ranging from small Vall
       <guid>/talks/eric-thiebaut-george-smart-buildings-smart-cities/</guid>
       <description>Is IoT a fad or is it the new tomorrow?
 Smart buildings are connected buildings where distinct services such as badge scanners, temperature sensors, catering and other devices and services are all interconnected in order to enhance the value of the building, reduce cost, and offer a better working environment. Similarly, smart cities aim to fluidity traffic, reduce congestion, improve energy efficiency,… in order to provide a superior living environment.</description>
+    </item>
+    
+    <item>
+      <title>Starting a startup within a startup</title>
+      <link>/talks/padraig-obrien-startup-in-a-startup/</link>
+      <pubDate>Sat, 24 Mar 2018 12:04:08 +0000</pubDate>
+      
+      <guid>/talks/padraig-obrien-startup-in-a-startup/</guid>
+      <description>Starting a startup within a startup is a look back at Vectra.ai building their second product, a threat hunting tool called recall, what did it take to go from zero to our first customer, the difficulties when all your customers are enterprise customers. In my chat I will cover everything from:
+ Getting your office setup Hiring people Trade-offs you will make when delivering software Getting going in a new domain, in this case, cyber-security Time-zone differences between offices in Ireland and the USA, silos and creating relationships with HQ.</description>
     </item>
     
     <item>
