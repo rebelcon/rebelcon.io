@@ -230,16 +230,16 @@ section.speaker {
 	background: rgba(25,34,49,.8);
 }
 
-#portfolio .speakers-temp {
+#portfolio {
 	font-size: 20px;
 	text-align: center;
 }
 
-#portfolio .speakers-temp .call-for-speakers {
+#portfolio .call-for-speakers {
 	font-size: 25px ;
 }
 
-#portfolio .speakers-temp .call-for-speakers a {
+#portfolio .call-for-speakers a {
 	color: #0b3c5d;
 }
 
