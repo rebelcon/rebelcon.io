@@ -440,3 +440,21 @@ section#speaker h4 {
 	font-size: 150%;
 	text-align: center;
 }
+
+div.testimonial {
+	font-size: 150%;
+	margin-top: 20px;
+	vertical-align: top;
+	border-left: 4px solid #328cc1;
+	padding: 10px;
+	color: #328cc1;
+}
+
+div.testimonial i.fas {
+	font-weight: bold;
+}
+
+div.testimonial div.testimonial-speaker {
+	text-align: right;
+	color: #fff;
+}
