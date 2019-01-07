@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RebelCon</title>
-    <link>/</link>
-    <description>Recent content on RebelCon</description>
+    <title>Talks on RebelCon</title>
+    <link>/talks/</link>
+    <description>Recent content in Talks on RebelCon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Mar 2018 12:04:08 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -223,15 +223,6 @@ But then daily business chatches us up&amp;hellip; The search for the guilty per
       
       <guid>/talks/2018/sam-newman-cloud-native/</guid>
       <description>Sam has found himself spending much of the past few years dealing with buzzword-heavy areas of technology, trying to come to terms with what it all means. From DevOps, to Microservices, serverless and now Cloud Native. So many of these terms mean different things to different people. In an effort to try and set us up with a common understanding of what Cloud Native is, Sam will be taking us on a whistle-stop tour through the history leading up to Cloud Native, and try and synthesise what it is, and why it’s important.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/team/committee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/team/committee/</guid>
-      <description>test</description>
     </item>
     
   </channel>
